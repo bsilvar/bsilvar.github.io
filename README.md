@@ -8,7 +8,7 @@ As an assigmnet for CS-HU250, I have created this Github page
 
 ### Greatest C program
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Effective and efficient
 
 ```markdown
 
