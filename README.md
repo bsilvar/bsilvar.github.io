@@ -2,7 +2,7 @@
 
 This page is hosted at [bsilvar.github.io](https://bsilvar.github.io/)
 
-As an assigmnet for CS-HU250, I have created this Github page
+As an assignment for CS-HU250, I have created this Github page
 
 
 
