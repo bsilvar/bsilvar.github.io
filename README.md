@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+# Welcome to my Github page
 
-You can use the [editor on GitHub](https://github.com/bsilvar/bsilvar.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This page is hosted at [bsilvar.github.io](https://bsilvar.github.io/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+As an assigmnet for CS-HU250, I have created this Github page
 
-### Markdown
+
+
+### Greates C program
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+1. #include <stdio.h>
+2. int main(void) {
+3.    printf("Hello World!\n");
+4.    return 0;
+5. }
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+For more details as to how I did it [Pro C programmer](https://www.google.com/).
 
-### Jekyll Themes
+### Projects
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bsilvar/bsilvar.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Any ***current*** or ***future*** projects will be annouced **here**!
 
-### Support or Contact
+### Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+The best way to reach me is by email. Any personal/business related inquiries click here: [email](https://www.google.com/)
