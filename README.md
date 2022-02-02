@@ -11,8 +11,6 @@ As an assignment for CS-HU250, I have created this Github page
 Effective and efficient
 
 ```markdown
-
-
 1. #include <stdio.h>
 2. int main(void) {
 3.    printf("Hello World!\n");
